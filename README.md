@@ -1,4 +1,4 @@
-# GIM 2025
+# GIM
 Nahele Belli, CV01
 Grafica e movimento - Andrea Gysin
 
