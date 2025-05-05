@@ -1,4 +1,4 @@
-# 🔵 GIM
+# GIM
 ### Nahele Belli, CV01
 #### CV225.03 Grafica in movimento - Andreas Gysin
 
