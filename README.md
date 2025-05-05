@@ -11,7 +11,7 @@
 - [Esercizio 1B: Logo Loop FFS](Esercizio_1B/template/index.html)
 
 ## Esercizio 1C
-- [Esercizio 1C: Testo](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
+- [Esercizio 1C: commento sul testo di Kleist](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
 
 ## Esercizio 1D
-- [Esercizio 1C: Paralla](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
+- [Esercizio 1C: Parallax](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
