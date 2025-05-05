@@ -1,5 +1,5 @@
 # GIM
-Nahele Belli, CV01
+### Nahele Belli, CV01
 Grafica e movimento - Andrea Gysin
 
 ## Esercizio 1A
@@ -8,4 +8,6 @@ Grafica e movimento - Andrea Gysin
 - [Esercizio 1A: Rotazione 2](Esercizio_1A/Esercizio_1A_Nahele/rotazione_2.html)
 - [Esercizio 1A: Rotazione 3](Esercizio_1A/Esercizio_1A_Nahele/rotazione_3.html)
 
-## Esercizio 2B
+## Esercizio 1B
+
+## Esercizio 1C
