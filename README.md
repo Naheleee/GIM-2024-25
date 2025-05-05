@@ -1,2 +1,2 @@
 # GIM
-Grafica e movimento Gysin
+Grafica e movimento - Andrea Gysin
