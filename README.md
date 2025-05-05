@@ -1,6 +1,6 @@
 # GIM
 ### Nahele Belli, CV01
-Grafica e movimento - Andrea Gysin
+#### CV225.03 Grafica in movimento - Andrea Gysin
 
 ## Esercizio 1A
 - [Esercizio 1A: Acceso spento 2](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
