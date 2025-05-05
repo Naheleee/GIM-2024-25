@@ -1,4 +1,5 @@
-# GIM
+# GIM 2025
+Nahele Belli, CV01
 Grafica e movimento - Andrea Gysin
 
 ## Esercizio 1A
