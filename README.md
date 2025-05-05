@@ -13,3 +13,6 @@
 
 ## Esercizio 1C
 - [Esercizio 1C: Testo](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
+
+## Esercizio 1D
+- [Esercizio 1C: Parallax](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
