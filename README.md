@@ -9,5 +9,7 @@
 - [Esercizio 4A: Rotazione 3](Esercizio_1A/Esercizio_1A_Nahele/rotazione_3.html)
 
 ## Esercizio 1B
+- [Esercizio 1B: Logo Loop](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
 
 ## Esercizio 1C
+- [Esercizio 1C: Testo](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
