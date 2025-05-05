@@ -6,6 +6,8 @@
 - [Esercizio 2A: Acceso spento 3](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_3.html)
 - [Esercizio 3A: Rotazione 2](Esercizio_1A/Esercizio_1A_Nahele/rotazione_2.html)
 - [Esercizio 4A: Rotazione 3](Esercizio_1A/Esercizio_1A_Nahele/rotazione_3.html)
+- [Esercizio 5A: Spostamento 2](Esercizio_1A/Esercizio_1A_Nahele/spostamento_2.html)
+- [Esercizio 6A: Spostamento 3](Esercizio_1A/Esercizio_1A_Nahele/spostamento_3.html)
 
 ## Esercizio 1B
 - [Esercizio 1B: Logo Loop FFS](Esercizio_1B/template/index.html)
@@ -13,5 +15,5 @@
 ## Esercizio 1C
 - [Esercizio 1C: commento sul testo di Kleist](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
 
-## Esercizio 1D
+## Esercizio 2
 - [Esercizio 1C: Parallax](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
