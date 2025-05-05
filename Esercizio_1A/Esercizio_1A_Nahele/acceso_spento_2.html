@@ -9,8 +9,9 @@
 			height:100%;
 		}
 		body{
-			background-color: rgb(255, 255, 255);
+			
 			margin: 3em 2em;
+			transition: background-color 0.2s
 		}
 	</style>
 
@@ -29,6 +30,14 @@
 		let frame = 0
 
 		setInterval(() => {
+
+			// Cambia il colore di sfondo in base al frame
+			if (frame === 0) {
+				document.body.style.backgroundColor = "black";
+			} else {
+				document.body.style.backgroundColor = "white";
+			}
+
 			const img = document.querySelector("img")
 			img.src = sequenza[frame]
 			frame = (frame + 1) % sequenza.length
