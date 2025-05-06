@@ -1,19 +1,2 @@
-# Esercizio 1C
-Lettura
-
-## Brief
-Leggere il testo di Kleist e scrivere un commento e publiccarlo nel file README.md.
-(Va segnalato l’uso di LLM, in fondo al testo, con precisione). 
-
-## Restrizioni
-- 400-1000 caratteri
-
-## Consegna
-Pubblicare il commento sulla piattaforma GitHub nel file README.md.
-
-## Struttura cartella
-```
-GIM/esercizio_1C
-	README.md
-``` 
+Ho trovato il testo a primo impatto un pò difficile, poi rileggendo varie volte ho colto la storia tra il protagonista e la storia del Signor C, con le marionette, il ragazzo che finì per guardarsi allo specchio per vanità e l'orso che parava ogni colpo stando fermo immobile, è poetica, un pò surreale, divertente e fa riflettere, del testo però mi è piaciuta in particolare una frase, che pronuncia il protagonista dopo aver chiesto al Signo C se secondo lui il macchinista che muove le marionette non dovesse essere egli stesso un ballerino o se non altro possedere un suo concetto del bello della danza: -"Replicò che se un’attività è semplice dal punto di vista meccanico non ne deve per forza conseguire che possa venire eseguita senza alcun sentimento.", questa frase mi fa pensare come secondo me noi come tutti abbiamo le capacità e i mezzi per fare grafica, design e comunicazione nello specifico, ma che dev'essere la passione, lo spirito e il sentimento a trasportarci in queste professioni.
 
