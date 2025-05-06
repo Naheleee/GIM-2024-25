@@ -10,8 +10,8 @@
 - [Esercizio 6A: Spostamento 3](Esercizio_1A/Esercizio_1A_Nahele/spostamento_3.html)
 
 ## Esercizio 1B
-- [Esercizio 1B: Logo Loop FFS](Esercizio_1B/template/Logo_loop_1.html)
-- [Esercizio 1B: Logo Loop FFS Versione 2](Esercizio_1B/template/Logo_loop_2.html)
+- [Esercizio 1B: Logo Loop FFS](Esercizio_1B/Logo_loop_1.html)
+- [Esercizio 1B: Logo Loop FFS Versione 2](Esercizio_1B/Logo_loop_2.html)
 
 ## Esercizio 1C
 - [Esercizio 1C: Commento sul testo di Kleist](Esercizio_1C/README.md)
