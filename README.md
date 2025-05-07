@@ -18,4 +18,4 @@
 
 
 ## Esercizio 2
-- [Esercizio 1C: Parallax](Esercizio_1A/Esercizio_1A_Nahele/acceso_spento_2.html)
+- [Esercizio 1C: Parallax](Esercizio_2)
