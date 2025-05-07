@@ -18,4 +18,4 @@
 
 
 ## Esercizio 2
-- [Esercizio 1C: Parallax](Esercizio_2)
+- [Esercizio 1C: Parallax](Esercizio_2/parallax_interattivo_nahele.html)
