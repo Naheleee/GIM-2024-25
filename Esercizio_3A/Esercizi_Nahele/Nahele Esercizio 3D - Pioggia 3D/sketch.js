@@ -17,8 +17,8 @@ function draw() {
 
 	let dimensione = 1000
 
-	for (let i=0; i<1000; i++) {
-		let gl = random(10, 150)
+	for (let i=0; i<50; i++) {
+		let gl = random(10, 400)
 		let gx = random(-dimensione, dimensione)
 		let gy = random(-dimensione, dimensione - gl)
 		let gz = random(-dimensione, dimensione)
