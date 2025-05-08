@@ -1,7 +1,7 @@
 {
 	"name": "Pioggia",
 	"short_name": "Pioggia",
-	"description": "Titolo",
+	"description": "Pioggia",
 	"display_override": ["fullscreen"],
 	"display": "standalone",
 	"icons": [

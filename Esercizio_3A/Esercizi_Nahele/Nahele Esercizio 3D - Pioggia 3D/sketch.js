@@ -7,36 +7,27 @@ function windowResized() {
 }
 
 function draw() {
-
 	background(0)
 
-
-
-
-	lights(10)
 
 	rotateX(-mouseY * 0.01)
 	rotateY(-mouseX * 0.01)
 
-	box(100)
+	//box(50, 50, 50)
 
-	let dimensione = 100
+	let dimensione = 1000
 
+	for (let i=0; i<1000; i++) {
+		let gl = random(10, 150)
+		let gx = random(-dimensione, dimensione)
+		let gy = random(-dimensione, dimensione - gl)
+		let gz = random(-dimensione, dimensione)
 
-
-
-	for (let i = 0; i < 100; i++) {
-
-		let gX = random(-dimensione, dimensione)
-		let gY = random(-dimensione, dimensione - gL)
-		let gL = random(10, 200)
-		let gZ = random(-dimensione, dimensione)
-
+		strokeWeight(random(1, 2))
 		stroke(255, random(100, 255))
-		strokeWeight(random(1, 3))
-
-		line(gX, gY, gZ, gX, gY + gL, gZ)
-
+		line(gx, gy, gz,       gx, gy + gl, gz)
 	}
+
+
 
 }
