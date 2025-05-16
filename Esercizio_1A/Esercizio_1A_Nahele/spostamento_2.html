@@ -9,7 +9,7 @@
 			height:100%;
 		}
 		body{
-			background-color: rgb(255, 255, 255);
+			background-color: #000000;
 			margin: 3em 2em;
 		}
 	</style>
@@ -22,8 +22,8 @@
 	<script type="module">
 
 		const sequenza = [
-			"img/acceso_spento_due_1.png",
-			"img/acceso_spento_due_2.png",
+			"img/spostamento_2.1.png",
+			"img/spostamento_2.2.png",
 		]
 
 		let frame = 0
@@ -32,7 +32,7 @@
 			const img = document.querySelector("img")
 			img.src = sequenza[frame]
 			frame = (frame + 1) % sequenza.length
-		}, 500)
+		}, 100)
 
 	</script>
 </body>
