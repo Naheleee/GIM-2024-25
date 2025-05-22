@@ -23,5 +23,5 @@
 ## Esercizio 3A
 - [Esercizio 3A: Colore e forma](Esercizio_2\parallax_interattivo_nahele.html)
 - [Esercizio 3B: Iterazione](Esercizio_2\parallax_interattivo_nahele.html)
-- [Esercizio 3C: (Ping)Pong](Esercizio_3A\Esercizi_Nahele\Nahele_Esercizio_3C_-_Ping_pong_giocabile\index.html)
+- [Esercizio 3C: (Ping)Pong](Esercizio_3A\Esercizi_Nahele\Nahele_Esercizio_3C_Ping_pong_giocabile\index.html)
 - [Esercizio 3D: Colore e forma](Esercizio_2\parallax_interattivo_nahele.html)
