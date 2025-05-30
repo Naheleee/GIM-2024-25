@@ -31,5 +31,5 @@
 - [Esercizio 3E: Neve](Esercizio_3A\Esercizi_Nahele\Nahele_Esercizio_3E_Neve_3\index.html)
 
 
-## Esercizio 3B
-- [Esercizio 3B: Orologio](Esercizio_2\parallax_interattivo_nahele.html)
+## Esercizio 4
+- [Esercizio 4: Orologio](Esercizio_2\parallax_interattivo_nahele.html)
