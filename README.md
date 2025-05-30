@@ -32,4 +32,4 @@
 
 
 ## Esercizio 3B
-- [Esercizio 3E: Neve](Esercizio_2\parallax_interattivo_nahele.html)
+- [Esercizio 3B: Orologio](Esercizio_2\parallax_interattivo_nahele.html)
