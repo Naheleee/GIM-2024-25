@@ -11,8 +11,8 @@
 
 
 ## Esercizio 1B
-- [Esercizio 1B: Logo Loop FFS](Esercizio_1B/Logo_loop_1.html)
-- [Esercizio 1B: Logo Loop FFS Versione 2](Esercizio_1B/Logo_loop_2.html)
+- [Esercizio 1B: Logo Loop FFS V1](Esercizio_1B/Logo_loop_1.html)
+- [Esercizio 1B: Logo Loop FFS V2](Esercizio_1B/Logo_loop_2.html)
 
 
 ## Esercizio 1C
@@ -26,7 +26,8 @@
 ## Esercizio 3A
 - [Esercizio 3A: Colore e forma](Esercizio_3A\Esercizi_Nahele\Nahele_Esercizio_3A_Colore_forma\index.html)
 - [Esercizio 3B: Iterazione](Esercizio_3A\Esercizi_Nahele\Nahele_Esercizio_3B_Iterazione\index.html)
-- [Esercizio 3C: (Ping)Pong](Esercizio_3A\Esercizi_Nahele\Nahele_Esercizio_3C_Ping_pong_giocabile\index.html)
+- [Esercizio 3C: (Ping)Pong V1](Esercizio_3A\Esercizi_Nahele\Nahele_Esercizio_3C_Ping_pong\index.html)
+- [Esercizio 3C: (Ping)Pong V2](Esercizio_3A\Esercizi_Nahele\Nahele_Esercizio_3C_Ping_pong_giocabile\index.html)
 - [Esercizio 3D: Pioggia](Esercizio_3A\Esercizi_Nahele\Nahele_Esercizio_3D_Pioggia_3D\index.html)
 - [Esercizio 3E: Neve](Esercizio_3A\Esercizi_Nahele\Nahele_Esercizio_3E_Neve_3\index.html)
 

@@ -8,8 +8,11 @@ const paddleWidth = 10;
 const paddleHeight = 80;
 const paddleSpeed = 5;
 
+let canvas;
+
 function setup() {
-	createCanvas(800, 500);
+	canvas = createCanvas(800, 500);
+	centerCanvas();
 
 	resetBall();
 
@@ -83,4 +86,16 @@ function resetBall() {
 	posizioneY = height / 2;
 	velocitaX = -10;          // Va verso sinistra
 	velocitaY = random(-5, 5);
+}
+
+// Funzione per centrare il canvas
+function centerCanvas() {
+	let x = (windowWidth - width) / 2;
+	let y = (windowHeight - height) / 2;
+	canvas.position(x, y);
+}
+
+// Ricentra il canvas se la finestra cambia dimensione
+function windowResized() {
+	centerCanvas();
 }
