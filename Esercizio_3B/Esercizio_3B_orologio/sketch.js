@@ -1,6 +1,6 @@
 // ==== CONFIGURAZIONE ====
 // Colori
-let bgColor = [30, 30, 30];            // Sfondo
+let bgColor = [30];            // Sfondo
 let faceColor = [200];                 // Colore quadrante
 let tickColor = [40];                  // Colore tacche
 let hourHandColor = [0];
@@ -20,8 +20,8 @@ let handWidthSecond = 3;
 let handLengthSecond = clockRadius * 0.85;
 let tickLength = 20;
 
-// Distanza dei numeri (12, 3, 6, 9) dal bordo
-let numOffset = -40;
+// Distanza dei numeri (1–12) dal bordo
+let numOffset = 40;
 // =========================
 
 function setup() {
@@ -71,14 +71,16 @@ function draw() {
       line(x1, y1, x2, y2);
     }
 
-    // Numeri
+    // Numeri da 1 a 12
     fill(200);
     noStroke();
     textSize(30);
-    text("12", 0, -clockRadius + numOffset);
-    text("3", clockRadius - numOffset, 0);
-    text("6", 0, clockRadius - numOffset);
-    text("9", -clockRadius + numOffset, 0);
+    for (let i = 1; i <= 12; i++) {
+      let angle = map(i, 0, 12, 0, 360) - 90;
+      let x = cos(angle) * (clockRadius + numOffset);
+      let y = sin(angle) * (clockRadius + numOffset);
+      text(i, x, y);
+    }
 
     // Orologio digitale
     let digitalString = nf(now.getHours(), 2) + ' ' + nf(m, 2) + ' ' + nf(floor(s), 2);
