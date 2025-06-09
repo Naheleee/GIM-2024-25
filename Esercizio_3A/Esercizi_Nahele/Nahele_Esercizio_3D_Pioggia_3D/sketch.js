@@ -1,14 +1,17 @@
 let ultimoLampo = 0;
 let lampeggi = [];
 
+
 function setup() {
 	createCanvas(windowWidth, windowHeight, WEBGL);
 	frameRate(60);
 }
 
+
 function windowResized() {
 	resizeCanvas(windowWidth, windowHeight);
 }
+
 
 function draw() {
 	let ora = frameCount;
@@ -22,6 +25,7 @@ function draw() {
 	// Se siamo nel frame di un lampo, sfondo chiaro
 	if (lampeggi.includes(ora)) {
 		background(255);
+
 	} else {
 		background(0);
 	}
