@@ -26,10 +26,10 @@
 ## Esercizio 3A
 - [Esercizio in classe: Colore e forma](https://naheleee.github.io/GIM-2024-25/Esercizio_3A/Esercizi_Nahele/Nahele_Esercizio_3A_Colore_forma/index.html)
 - [Esercizio in classe: Iterazione](https://naheleee.github.io/GIM-2024-25/Esercizio_3A/Esercizi_Nahele/Nahele_Esercizio_3B_Iterazione/index.html)
-- [Esercizio 3A: (Ping)Pong V1](https://naheleee.github.io/GIM-2024-25/Esercizio_3A/Esercizio_3A/Esercizi_Nahele/Nahele_Esercizio_3C_Ping_pong/index.html)
-- [Esercizio 3B: (Ping)Pong V2](https://naheleee.github.io/GIM-2024-25/Esercizio_3A/Esercizio_3A/Esercizi_Nahele/Nahele_Esercizio_3C_Ping_pong_giocabile/index.html)
-- [Esercizio 3C: Pioggia](https://naheleee.github.io/GIM-2024-25/Esercizio_3A/Esercizio_3A/Esercizi_Nahele/Nahele_Esercizio_3D_Pioggia_3D/index.html)
-- [Esercizio 3D: Neve](https://naheleee.github.io/GIM-2024-25/Esercizio_3A/Esercizio_3A/Esercizi_Nahele/Nahele_Esercizio_3E_Neve_3/index.html)
+- [Esercizio 3A: (Ping)Pong V1](https://naheleee.github.io/GIM-2024-25//Esercizio_3A/Esercizi_Nahele/Nahele_Esercizio_3C_Ping_pong/index.html)
+- [Esercizio 3B: (Ping)Pong V2](https://naheleee.github.io/GIM-2024-25//Esercizio_3A/Esercizi_Nahele/Nahele_Esercizio_3C_Ping_pong_giocabile/index.html)
+- [Esercizio 3C: Pioggia](https://naheleee.github.io/GIM-2024-25//Esercizio_3A/Esercizi_Nahele/Nahele_Esercizio_3D_Pioggia_3D/index.html)
+- [Esercizio 3D: Neve](https://naheleee.github.io/GIM-2024-25//Esercizio_3A/Esercizi_Nahele/Nahele_Esercizio_3E_Neve_3/index.html)
 
 ## Esercizio 4
 - [Esercizio 4: Orologio V1](https://naheleee.github.io/GIM-2024-25/Esercizio_3B/Esercizio_3B_orologio_V1/index.html)
